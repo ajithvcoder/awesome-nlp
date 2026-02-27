@@ -14,7 +14,10 @@ This repo helps in basic understanding of NLP with practial projects
 10. Evaluation Techniques
 
 
+### Text Classification
+1. [Automatic Ticket Classification](./01_Text_Classification/)
+
 ### Evaluation Techniques
-1. [RAG Basic Evaluation Project](./10_Evaluation/rag_basic_evaluation/)
+1. [Wikipedia RAG - Basic Evaluation Project](./10_Evaluation/rag_basic_evaluation/)
 
 
