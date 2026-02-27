@@ -11,3 +11,5 @@ Setup
 Run
 - `python rag_evaluation.py`
 
+References
+1. [Evaluate RAG](https://github.com/namratanwani/Evaluate-RAG)

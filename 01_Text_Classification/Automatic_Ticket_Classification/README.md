@@ -30,3 +30,5 @@ This project does Automatic Ticket classification by following methods
 ![](./assets/confusion_matrix_Training-log_reg.png)
 ![](./assets/confusion_matrix_Test-log_reg.png)
 
+References
+1. [source repo](https://github.com/sukhijapiyush/NLP-Case-Study---Automatic-Ticket-Classification/tree/master)
