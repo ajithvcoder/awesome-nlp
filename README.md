@@ -15,6 +15,6 @@ This repo helps in basic understanding of NLP with practial projects
 
 
 ### Evaluation Techniques
-1. [RAG Basic Evaluation Project](./rag_basic_evaluation/)
+1. [RAG Basic Evaluation Project](./10_Evaluation/rag_basic_evaluation/)
 
 
